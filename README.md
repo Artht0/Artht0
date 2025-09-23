@@ -32,7 +32,7 @@ Currently working on **NEEP App**, a prototype designed to help users discover p
 ---
 
 ## 📂 Projects
-- [NEEP App](https://github.com/Artht0/App-Neps) – Flutter app for personal strengths discovery and profile exploration  
+- [NEPS App](https://github.com/Artht0/App-Neps) – Flutter app for personal strengths discovery and profile exploration  
 - *(more projects coming soon...)*  
 
 ---
