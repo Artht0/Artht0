@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arthur!
 
 I’m a Flutter/Dart developer passionate about building clean and user-friendly mobile applications.  
-Currently working on **NEEP App**, a prototype designed to help users discover personal strengths and explore learning profiles.  
+Currently working on **NEPS App**, a prototype designed to help users discover personal strengths and explore learning profiles.  
 
 ---
 
